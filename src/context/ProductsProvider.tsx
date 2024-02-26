@@ -1,4 +1,4 @@
-import { ReactElement, createContext, useState,useEffect } from "react";
+import { ReactElement, createContext} from "react";
 
 export type ProductType = {
   sku: string;
